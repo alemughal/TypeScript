@@ -20,7 +20,6 @@ const initialize = () => {
 
     outputElem.innerHTML = result.toString();
     outputWrapperElem.style.display = "block";
-    alert('Hello World');
   });
 };
 
